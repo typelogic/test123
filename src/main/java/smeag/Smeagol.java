@@ -12,4 +12,7 @@ public class Smeagol {
         return a - b;
     }
 
+    public int multnum(int a, int b) {
+        return a * b;
+    }
 }
